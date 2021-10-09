@@ -10,6 +10,7 @@ public class DemoFloatType {
 		double length = 10.5;
 		double width = 20.4;
 		double height = 50.2;
+		double height2 = 50.2D;
 		
 		
 		double result  = 0.0f;
