@@ -1,4 +1,4 @@
-package com.athensoft.demo;
+package com.athensoft.demo.conversion;
 
 public class DemoCharInt {
 	public static void main(String[] args) {

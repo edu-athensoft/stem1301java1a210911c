@@ -1,4 +1,4 @@
-package com.athensoft.demo;
+package com.athensoft.demo.oper;
 
 public class DemoBitwise {
 
